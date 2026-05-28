@@ -1,0 +1,26 @@
+-- ============================================================
+-- DESAFIO 01: Relatório de vendas do dia por PDV
+-- ============================================================
+-- CONTEXTO:
+--   O gerente da loja quer saber o total de vendas de hoje
+--   agrupado por caixa (PDV), com ticket médio e número de cupons.
+--
+-- SOLICITAÇÃO DO CLIENTE:
+--   "Me manda um relatório com os caixas que venderam hoje,
+--    quanto cada um fez e a média por cupom."
+--
+-- METODOLOGIA PRÉ-QUERY:
+--   O que ver?     Total de vendas, ticket médio, nº de cupons por PDV
+--   Quais tabelas? (preencha antes de escrever a query)
+--   O que une?     (qual é a chave de relacionamento?)
+--
+-- ⬇️ ESCREVA SUA SOLUÇÃO ABAIXO
+-- ============================================================
+
+
+-- ============================================================
+-- REVISÃO E ANOTAÇÕES (preencha após feedback)
+-- ============================================================
+-- ✅ O que estava correto:
+-- ⚠️ O que poderia melhorar:
+-- 🐛 O que precisou corrigir:

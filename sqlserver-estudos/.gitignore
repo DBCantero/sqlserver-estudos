@@ -1,0 +1,12 @@
+# Arquivos de backup do SQL Server
+*.bak
+*.mdf
+*.ldf
+
+# Configurações locais (evita expor connection strings)
+*.env
+appsettings.local.json
+connection-string.txt
+
+# VS Code
+.vscode/
