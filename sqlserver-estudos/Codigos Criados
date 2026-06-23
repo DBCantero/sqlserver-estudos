@@ -1,0 +1,4 @@
+select c.FILIAL,c.PRODUTO,c.COR_PRODUTO,c.ES1 PP,c.ES2 P,C.ES3 M,C.ES4 G from PRODUTOS a
+inner join PRODUTOS_TAMANHOS b on a.grade=b.GRADE
+inner join estoque_produtos c on a.produto=c.produto
+where c.produto='codigo do produto' and cor_produto='cor do produto' and filial like '%nome filial%'
